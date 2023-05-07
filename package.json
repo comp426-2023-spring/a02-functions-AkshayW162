@@ -1,0 +1,25 @@
+{
+  "name": "akshay-walavalkar-functions",
+  "version": "1.0.0",
+  "description": "The purpose of this assignment is to create an installable Node.js command line application package.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node cli.js -n 35.92 -w 79.05 -z America/New_York"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/comp426-2023-spring/a02-functions-AkshayW162.git"
+  },
+  "keywords": [
+    "node",
+    "command",
+    "args",
+    "https"
+  ],
+  "author": "@akshayw162",
+  "license": "AGPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/comp426-2023-spring/a02-functions-AkshayW162/issues"
+  },
+  "homepage": "https://github.com/comp426-2023-spring/a02-functions-AkshayW162#readme"
+}
